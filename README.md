@@ -1,0 +1,2 @@
+# vue_psychologyTestDemo
+仿照大神写的vue的demo,Vue初学者适用
